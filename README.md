@@ -20,6 +20,6 @@
 <br>
 
 <p align="center">
-<img height="270px" alt="GIF" src="https://media2.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif?cid=ecf05e47peqizsb1czl3vwts9y5hn2z3vw8juma5rxo7ywhm&rid=giphy.gif&ct=g" />
+<img height="270px" alt="GIF" src="https://i.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.webp" />
 </p>
 <br>
